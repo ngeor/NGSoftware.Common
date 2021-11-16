@@ -1,7 +1,7 @@
 # NGSoftware.Common
 Various C# utilities
 
-[![Build Status](https://travis-ci.org/ngeor/NGSoftware.Common.svg?branch=master)](https://travis-ci.org/ngeor/NGSoftware.Common)
+
 [![NuGet](https://img.shields.io/nuget/v/NGSoftware.Common.svg)](https://www.nuget.org/packages/NGSoftware.Common/)
 [![NuGet](https://img.shields.io/nuget/dt/NGSoftware.Common.svg)](https://www.nuget.org/packages/NGSoftware.Common/)
 
